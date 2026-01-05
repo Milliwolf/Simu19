@@ -7,5 +7,6 @@ dependencies:
   - pypsa
   - matplotlib
   - pandas
+  - openpyxl
   - ipykernel
   - openpyxl
